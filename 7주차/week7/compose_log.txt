@@ -1,0 +1,14 @@
+web-1  |  * Serving Flask app 'app'
+web-1  |  * Debug mode: off
+web-1  | WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+web-1  |  * Running on all addresses (0.0.0.0)
+web-1  |  * Running on http://127.0.0.1:5000
+web-1  |  * Running on http://172.18.0.3:5000
+web-1  | Press CTRL+C to quit
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:17:38] "GET / HTTP/1.1" 200 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:17:59] "GET / HTTP/1.1" 200 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:17:59] "GET /favicon.ico HTTP/1.1" 404 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:18:01] "GET / HTTP/1.1" 200 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:18:02] "GET / HTTP/1.1" 200 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:18:39] "GET / HTTP/1.1" 200 -
+web-1  | 172.18.0.1 - - [02/Nov/2026 05:18:40] "GET / HTTP/1.1" 200 -
